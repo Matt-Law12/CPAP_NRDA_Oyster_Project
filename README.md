@@ -1,7 +1,7 @@
 # Florida Oyster Cultch Placement Restoration Project
 
 ## Introduction
-The Florida Oyster Cultch Placement Project is a Natural Resource Damage Assessment (NRDA) Phase III Deepwater Horizon early restoration project. This project seeks to foster oyster reef habitat development, which would help compensate the public for Spill-related injuries and losses to oyster habitat and benthic secondary productivity.
+The Florida Oyster Cultch Placement Project is a Natural Resource Damage Assessment (NRDA) Phase III Deepwater Horizon early restoration project. This project seeks to foster oyster reef habitat development, which would help compensate the public for spill-related injuries and losses to oyster habitat and benthic secondary productivity.
 
 ## Project Overview
 The objective of the Florida Oyster Cultch Placement Project is to promote reef development for oysters by restoring existing, degraded oyster reef habitats that have reached their productive lifespan. The restoration work for this project included the placement of suitable cultch material on existing or previously constructed oyster bars by barge for the settling of native oyster larvae and oyster colonization. Approximately 61,943 cubic yards of oyster cultch was placed over an estimated 296 acres of existing oyster bars in the Apalachicola, St. Andrews, and Pensacola Bay Systems, including: <br />
