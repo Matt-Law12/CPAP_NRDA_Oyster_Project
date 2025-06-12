@@ -1,10 +1,14 @@
 # Florida Oyster Cultch Placement Restoration Project
-Analyzing the monitoring data for the NRDA Florida Oyster Cultch Placement Restoration Project. Interactive PowerBI dashboard can be found [here](https://app.powerbi.com/view?r=eyJrIjoiODhhZGQxZmYtYjYzYy00MTQ0LWI3M2EtZmE3NzdlODdlOGE3IiwidCI6ImI2MjAxOTYwLTQ1YmEtNGI3OC1iMDgwLWYxYzQzM2ZmNmUzNiIsImMiOjZ9).
 
-![Screenshot 2025-05-15 141510](https://github.com/user-attachments/assets/fc778dc5-0492-43ee-a7d9-2d50f60f37f8)
+## Introduction
+The Florida Oyster Cultch Placement Project is a Natural Resource Damage Assessment (NRDA) Phase III Deepwater Horizon early restoration project. This project seeks to foster oyster reef habitat development, which would help compensate the public for Spill-related injuries and losses to oyster habitat and benthic secondary productivity.
 
 ## Project Overview
-The objective of the Florida Oyster Cultch Placement Project is to promote reef development for oysters by restoring existing, degraded oyster reef habitats that have reached their productive lifespan. The restoration work for this project included the placement of suitable cultch material on existing or previously constructed oyster bars by barge for the settling of native oyster larvae and oyster colonization. Approximately 61,943 cubic yards of oyster cultch was placed over an estimated 296 acres of existing oyster bars in the Apalachicola, St. Andrews, and Pensacola Bay Systems. 
+The objective of the Florida Oyster Cultch Placement Project is to promote reef development for oysters by restoring existing, degraded oyster reef habitats that have reached their productive lifespan. The restoration work for this project included the placement of suitable cultch material on existing or previously constructed oyster bars by barge for the settling of native oyster larvae and oyster colonization. Approximately 61,943 cubic yards of oyster cultch was placed over an estimated 296 acres of existing oyster bars in the Apalachicola, St. Andrews, and Pensacola Bay Systems, including: <br />
+<br />
+•	Placing approximately 24,840 cubic yards of shell on 16 debilitated oyster reefs over an approximately 124-acre area in the Apalachicola Bay System in Franklin County,<br />
+•	Placing approximately 17,000 cubic yards of crushed granite over an estimated 84 acres of debilitated oyster reefs in the St. Andrews Bay System in Bay County, and <br />
+•	Placing approximately 20,103 cubic yards of a lime rock aggregate over an estimated 88 acres of debilitated oyster reefs in the Pensacola Bay System in Escambia and Santa Rosa Counties<br />
 
 Cultch material consisted of combinations of oyster shells, either mined from existing sources or from active oyster shell collection sources, and/or limestone approved for use in these projects by Florida’s Department of Agriculture and Consumer Services (FDACS). Placing substrate or "cultch" in bays where natural reproduction occurs is the most effective technique used throughout the Gulf of Mexico to create three-dimensional reef structure, stimulate spat setting, sustain oyster fisheries, enhance community functions, increase natural productivity, and accelerate the recovery process. Florida has been involved in rehabilitating oyster reefs for more than sixty years and provides a multi-dimensional approach built on decades of experience. These restoration methods are established methods for this type of restoration project.
 
@@ -26,5 +30,6 @@ To evaluate the outcomes of the NRDA Florida Oyster Cultch Placement Restoration
 
 •	Less than 100 bags/acre = Oyster reefs considered depleted.
 
+![Screenshot 2025-05-15 141510](https://github.com/user-attachments/assets/fc778dc5-0492-43ee-a7d9-2d50f60f37f8)
 
 I also created an [interactive PowerBI dashboard](https://app.powerbi.com/view?r=eyJrIjoiODhhZGQxZmYtYjYzYy00MTQ0LWI3M2EtZmE3NzdlODdlOGE3IiwidCI6ImI2MjAxOTYwLTQ1YmEtNGI3OC1iMDgwLWYxYzQzM2ZmNmUzNiIsImMiOjZ9) geared more specifically towards individuals with little to no prior knowledge of the project. The dashboard enables users to explore key insights through dynamic visuals, making complex data more accessible and engaging—far beyond what static graphs or traditional reports can offer.
