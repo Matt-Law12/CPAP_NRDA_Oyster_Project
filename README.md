@@ -1,4 +1,9 @@
+<div align="center">
+
 # Florida Oyster Cultch Placement Restoration Project
+![image](https://github.com/user-attachments/assets/cb25f261-554f-47d6-87db-dea5f3840572)
+
+</div>
 
 ## Introduction
 The Florida Oyster Cultch Placement Project is a Natural Resource Damage Assessment (NRDA) Phase III Deepwater Horizon early restoration project. This project seeks to foster oyster reef habitat development, which would help compensate the public for spill-related injuries and losses to oyster habitat and benthic secondary productivity.
