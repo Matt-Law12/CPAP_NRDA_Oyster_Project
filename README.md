@@ -6,7 +6,7 @@
 </div>
 
 ## Project Overview
-The Florida Oyster Cultch Placement Project is a Natural Resource Damage Assessment (NRDA) Phase III Deepwater Horizon early restoration project. As a result of the Deepwater Horizon oil spill and associated response activities, oyster and benthic secondary productivity along Florida’s Panhandle suffered adverse impacts. This project focuses on restoring oyster reefs that were harmed or lost due to the spill.
+The Florida Oyster Cultch Placement Project is a Natural Resource Damage Assessment (NRDA) Phase III Deepwater Horizon early restoration project. As a result of the Deepwater Horizon oil spill and associated response activities, oyster reefs located along Florida’s Panhandle suffered adverse impacts. 
 
 Healthy oyster reefs play a vital role in the environment — they provide habitat for marine life, improve water quality, and support local fishing communities. This project aims to bring those benefits back by rebuilding degraded oyster habitats in targeted areas along Florida’s Gulf Coast.
 
@@ -33,10 +33,10 @@ Oyster reefs are vital to the health, economy, and culture of the Florida Panhan
 • Rebuilds habitat for fish and other marine life <br />
 • Enhances commercial and recreational fishing opportunities <br />
 
-Florida has been involved in rehabilitating oyster reefs for more than sixty years and provides a multi-dimensional approach built on decades of experience. These restoration methods are established methods for this type of restoration project.
+Florida has been involved in rehabilitating oyster reefs for more than sixty years and provides a multi-dimensional approach built on decades of experience. The restoration techniques used in this project are well-established and widely recognized as effective for rebuilding oyster reef habitat.
 
 ## Monitoring
-To see how the reefs have responded to the restoration efforts, we monitor oyster abundance, growth, and survival on a yearly basis. Scientists monitor the restored sites to check how many oysters are growing, how big they are, and whether the reefs have reached population levels capable of sustaining commercial harvest. These results help guide future restoration efforts and ensure long-term success.
+To see how the reefs have responded to our restoration efforts, we monitor oyster abundance, growth, and survival on a yearly basis. Our observations allow use to determine if the reefs have reached population levels capable of sustaining commercial harvest. These results help guide future restoration efforts and ensure long-term success.
 
 To determine the relative condition of oyster resources, an estimate of harvestable oysters is determined using FDACS’ Standard Oyster Resource Management Protocol, which has been utilized in Apalachicola Bay since 1982. FDACS uses a scale that states that 400 bags/acre could be harvested from productive artificially constructed reefs within two years of planting cultch. The scale is as follows: 
 
@@ -45,7 +45,7 @@ To determine the relative condition of oyster resources, an estimate of harvesta
 •	Less than 200 bags/acre = Below level necessary to support commercial harvest. <br />
 •	Less than 100 bags/acre = Oyster reefs considered depleted. <br />
 
-The collected monitoring data is analyzed by CPAP staff to determine the success of the restoration workand compiled into annual monitoring reports.
+The collected monitoring data is analyzed by CPAP staff to determine the success of the restoration work and compiled into annual monitoring reports.
 
 <div align="center">
   
@@ -53,27 +53,27 @@ The collected monitoring data is analyzed by CPAP staff to determine the success
 
 </div>
 
-Along with the annual monitoring reports that are published by CPAP, an [interactive PowerBI dashboard](https://app.powerbi.com/view?r=eyJrIjoiODhhZGQxZmYtYjYzYy00MTQ0LWI3M2EtZmE3NzdlODdlOGE3IiwidCI6ImI2MjAxOTYwLTQ1YmEtNGI3OC1iMDgwLWYxYzQzM2ZmNmUzNiIsImMiOjZ9) was created which enables users to explore key insights through dynamic visuals, making the complex monitoring data more accessible and engaging— far beyond what static graphs or traditional reports can offer.
+Along with the annual monitoring reports that are published by CPAP, an [interactive PowerBI dashboard](https://app.powerbi.com/view?r=eyJrIjoiODhhZGQxZmYtYjYzYy00MTQ0LWI3M2EtZmE3NzdlODdlOGE3IiwidCI6ImI2MjAxOTYwLTQ1YmEtNGI3OC1iMDgwLWYxYzQzM2ZmNmUzNiIsImMiOjZ9) was created which enables users to explore our monitoring data through dynamic visuals, making the complex data more accessible and engaging— far beyond what static graphs or traditional reports can offer.
 
 ## Results
 
 ### Apalachicola Bay
 In Apalachicola Bay, over 22,000 live oysters and nearly 6,000 dead oysters have been sampled so far. However, the number of live oysters has declined steadily from the first round of sampling to the most recent (Round 5), with the lowest count recorded in Round 5.
 
-The majority of oysters collected across all rounds were spat-sized (0-25 mm), which made up nearly 80% of all live oysters sampled. In Round 5, spat made up about half of the total, with seed-sized oysters (26-74 mm) and adult harvestable oysters (75 mm and larger) making up the rest. While the total number of live oysters observed has decreased overall, there was a slight increase in the number of adult oysters, suggesting some maturation of the population.
+The majority of oysters collected across all rounds were spat-sized (0-25 mm), which made up nearly 80% of all live oysters sampled. In Round 5, spat made up about half of the total, with seed-sized oysters (26-74 mm) and adult harvestable oysters (75 mm and larger) making up the rest. While the total number of live oysters in Round 5 of monitoring decreased from Round 4, there was a slight increase in the number of adult oysters observed. 
 
 When analyzing the bay based on geographical parameters:
 
-• The East side (sites located to the east of the Apalachicola River) consistently had more oysters than the West side, across all size classes. <br />
+• The East side (sites located east of the Apalachicola River) consistently had more oysters than the West side, across all size classes. <br />
 • Oystermen have observed more noticeable declines on the West side, especially in an area known as “The Miles.” <br />
 • Lighthouse Bar, on the East side, had the highest oyster density in Round 5. <br />
 
-Still, overall productivity has dropped. Based on state benchmarks, none of the sites in Apalachicola Bay are currently productive enough to support commercial harvest. Only Lighthouse Bar came close, with an estimate of about 146 harvestable oyster bags per acre — still below the 200 bags/acre needed for limited commercial harvest.
+Still, overall productivity has dropped. Based on the FDAC's Standard Oyster Resource Management Protocol, none of the sites in Apalachicola Bay are currently productive enough to support commercial harvest. Only Lighthouse Bar came close, with an estimate of about 146 harvestable oyster bags per acre — still below the 200 bags/acre necessary to supportcommercial harvest.
 
-Additionally, advanced mapping technology was used to determine the actual area of reef coverage. This effort showed that about 65% of the reef footprint still has hard substrate (the kind needed for oysters to grow), representing over 83 acres of the original 128-acre restoration area.
+Advanced mapping technology was used to determine the actual area of reef coverage. This effort showed that about 65% of the reef footprint still contains hard substrate necessary for spat settlement, representing  just over 83 acres of the original 128-acre restoration area.
 
 ### St. Andrews Bay
-St. Andrews Bay showed more encouraging results. So far, nearly 58,000 live oysters have been sampled, and numbers have increased significantly since the start of the project. The latest round (Round 5) saw the highest numbers yet — with a clear rise across all oyster size classes.
+In the St. Andrews Bay system, nearly 58,000 live oysters have been sampled, and numbers have increased significantly since the start of the project. The latest round (Round 5) saw the highest numbers yet — with a clear rise across all oyster size classes.
 
 Key highlights:
 
