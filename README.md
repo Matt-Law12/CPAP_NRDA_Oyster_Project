@@ -1,7 +1,7 @@
 <div align="center">
 
 # Florida Oyster Cultch Placement Restoration Project
-![Oysters-©-Jay-Fleming_web](https://github.com/user-attachments/assets/d7588aea-56ff-47c6-9eb2-177be77f9cfe)
+![Oysters-©-Jay-Fleming_web](https://github.com/user-attachments/assets/d8bb8392-b24a-42d8-9778-8a1b2d21827b)
 
 </div>
 
@@ -19,19 +19,19 @@ Healthy oyster reefs play a vital role in the environment — they provide habit
 
 To restore these vital reefs, we placed more than 61,000 cubic yards of reef-building material, known as cultch, across nearly 300 acres of existing oyster bars in three bay systems:
 
-•	Apalachicola Bay (Franklin County): ~24,840 cubic yards of oyster shell placed over 124 acres
-•	St. Andrews Bay (Bay County): ~17,000 cubic yards of crushed granite over 84 acres
-•	Pensacola Bay (Escambia & Santa Rosa Counties): ~20,100 cubic yards of limestone over 88 acres
+•	Apalachicola Bay (Franklin County): ~24,840 cubic yards of oyster shell placed over 124 acres <br />
+•	St. Andrews Bay (Bay County): ~17,000 cubic yards of crushed granite over 84 acres <br />
+•	Pensacola Bay (Escambia & Santa Rosa Counties): ~20,100 cubic yards of limestone over 88 acres <br />
 
 This material gives oyster larvae (called spat) a place to settle and grow, helping to rebuild reefs naturally.
 
 ## Why It Matters
 Oyster reefs are vital to the health, economy, and culture of the Florida Panhandle. By restoring these reefs, the project:
 
-• Supports the recovery of oyster populations
-• Improves water quality through natural filtration
-• Rebuilds habitat for fish and other marine life
-• Enhances commercial and recreational fishing opportunities
+• Supports the recovery of oyster populations <br />
+• Improves water quality through natural filtration <br />
+• Rebuilds habitat for fish and other marine life <br />
+• Enhances commercial and recreational fishing opportunities <br />
 
 Florida has been involved in rehabilitating oyster reefs for more than sixty years and provides a multi-dimensional approach built on decades of experience. These restoration methods are established methods for this type of restoration project.
 
@@ -40,10 +40,10 @@ To see how the reefs have responded to the restoration efforts, we monitor oyste
 
 To determine the relative condition of oyster resources, an estimate of harvestable oysters is determined using FDACS’ Standard Oyster Resource Management Protocol, which has been utilized in Apalachicola Bay since 1982. FDACS uses a scale that states that 400 bags/acre could be harvested from productive artificially constructed reefs within two years of planting cultch. The scale is as follows: 
 
-•	More than 400 bags/acre = Healthy oyster reefs capable of sustaining commercial harvest.
-•	More than 200 bags/acre = Oyster reefs capable of sustaining limited harvest.
-•	Less than 200 bags/acre = Below level necessary to support commercial harvest.
-•	Less than 100 bags/acre = Oyster reefs considered depleted.
+•	More than 400 bags/acre = Healthy oyster reefs capable of sustaining commercial harvest. <br />
+•	More than 200 bags/acre = Oyster reefs capable of sustaining limited harvest. <br />
+•	Less than 200 bags/acre = Below level necessary to support commercial harvest. <br />
+•	Less than 100 bags/acre = Oyster reefs considered depleted. <br />
 
 The collected monitoring data is analyzed by CPAP staff to determine the success of the restoration workand compiled into annual monitoring reports.
 
@@ -64,9 +64,9 @@ The majority of oysters collected across all rounds were spat-sized (0-25 mm), w
 
 When analyzing the bay based on geographical parameters:
 
-• The East side (sites located to the east of the Apalachicola River) consistently had more oysters than the West side, across all size classes.
-• Oystermen have observed more noticeable declines on the West side, especially in an area known as “The Miles.”
-• Lighthouse Bar, on the East side, had the highest oyster density in Round 5.
+• The East side (sites located to the east of the Apalachicola River) consistently had more oysters than the West side, across all size classes. <br />
+• Oystermen have observed more noticeable declines on the West side, especially in an area known as “The Miles.” <br />
+• Lighthouse Bar, on the East side, had the highest oyster density in Round 5. <br />
 
 Still, overall productivity has dropped. Based on state benchmarks, none of the sites in Apalachicola Bay are currently productive enough to support commercial harvest. Only Lighthouse Bar came close, with an estimate of about 146 harvestable oyster bags per acre — still below the 200 bags/acre needed for limited commercial harvest.
 
@@ -77,9 +77,8 @@ St. Andrews Bay showed more encouraging results. So far, nearly 58,000 live oyst
 
 Key highlights:
 
-East Bay, part of the St. Andrews system, had the most live oysters in Round 5 — and was the only region to contain adult oysters in both Rounds 4 and 5.
-
-North Bay remained the least productive region, largely due to fewer sampling sites and historically lower oyster populations.
+• East Bay, part of the St. Andrews system, had the most live oysters in Round 5 — and was the only region to contain adult oysters in both Rounds 4 and 5. <br />
+• North Bay remained the least productive region, largely due to fewer sampling sites and historically lower oyster populations. <br />
 
 The average oyster size in Round 5 was slightly smaller than in earlier rounds, likely due to the higher number of spat. Still, this increase in young oysters is a good sign that conditions are favorable for future growth.
 
@@ -92,9 +91,8 @@ Pensacola Bay has seen modest but important improvements. So far, more than 24,0
 
 In Round 5:
 
-Spat and seed oysters made up nearly all the oysters collected.
-
-Only three adult oysters were found across the entire bay system, a sharp drop from previous rounds.
+• Spat and seed oysters made up nearly all the oysters collected. <br />
+• Only three adult oysters were found across the entire bay system, a sharp drop from previous rounds. <br />
 
 Escribano Point was the standout site, producing the highest number of oysters overall and the highest oyster density (375 oysters/m²). In contrast, some sites like Boathouse Lumps had no live oysters at all.
 
@@ -102,4 +100,4 @@ Average oyster size also dropped in Round 5, reflecting the lower number of adul
 
 While oyster densities have rebounded from low points in earlier rounds, the number of harvestable oysters remains far too low. The highest estimated productivity was just under 5 bags/acre — far below the 200 bags/acre needed for even limited commercial harvest.
 
-Mapping data showed that about 73% of the restored area (52 out of 70 acres) still contains suitable hard reef substrate, suggesting that the physical structure for future reef growth is still in place.
+Mapping data showed that about 73% of the restored area (52 out of 70 acres) still contains suitable hard reef substrate, suggesting that the physical structure for future reef growth is still in place
