@@ -1,40 +1,41 @@
 <div align="center">
 
 # Florida Oyster Cultch Placement Restoration Project
-![image](https://github.com/user-attachments/assets/cb25f261-554f-47d6-87db-dea5f3840572)
+![Oysters-©-Jay-Fleming_web](https://github.com/user-attachments/assets/d7588aea-56ff-47c6-9eb2-177be77f9cfe)
 
 </div>
 
 ## Project Overview
-The Florida Oyster Cultch Placement Project is part of a larger effort to restore natural resources damaged by the 2010 Deepwater Horizon oil spill. Funded through the Natural Resource Damage Assessment (NRDA) program, this project focuses on restoring oyster reefs that were harmed or lost due to the spill.
+The Florida Oyster Cultch Placement Project is a Natural Resource Damage Assessment (NRDA) Phase III Deepwater Horizon early restoration project. As a result of the Deepwater Horizon oil spill and associated response activities, oyster and benthic secondary productivity along Florida’s Panhandle suffered adverse impacts. This project focuses on restoring oyster reefs that were harmed or lost due to the spill.
 
-Healthy oyster reefs play a vital role in the environment — they provide habitat for marine life, improve water quality, and support local fishing communities. This project aims to bring those benefits back by rebuilding degraded oyster habitats in key areas along Florida’s Gulf Coast.
+Healthy oyster reefs play a vital role in the environment — they provide habitat for marine life, improve water quality, and support local fishing communities. This project aims to bring those benefits back by rebuilding degraded oyster habitats in targeted areas along Florida’s Gulf Coast.
 
-## What We Did
-To restore these vital reefs, we placed more than 61,000 cubic yards of oyster-friendly material — known as cultch — across nearly 300 acres of existing oyster bars in three bay systems:
+## Restoration Work
+<div align="center">
+  
+![image](https://github.com/user-attachments/assets/4e95b501-4d51-449a-87c7-91e0252e8183)
+
+</div>
+
+To restore these vital reefs, we placed more than 61,000 cubic yards of reef-building material, known as cultch, across nearly 300 acres of existing oyster bars in three bay systems:
 
 •	Apalachicola Bay (Franklin County): ~24,840 cubic yards of oyster shell placed over 124 acres
-
 •	St. Andrews Bay (Bay County): ~17,000 cubic yards of crushed granite over 84 acres
-
 •	Pensacola Bay (Escambia & Santa Rosa Counties): ~20,100 cubic yards of limestone over 88 acres
 
 This material gives oyster larvae (called spat) a place to settle and grow, helping to rebuild reefs naturally.
 
 ## Why It Matters
-Oysters are more than just seafood — they’re essential to healthy coastal ecosystems. By restoring these reefs, the project:
+Oyster reefs are vital to the health, economy, and culture of the Florida Panhandle. By restoring these reefs, the project:
 
-Supports the recovery of oyster populations
+• Supports the recovery of oyster populations
+• Improves water quality through natural filtration
+• Rebuilds habitat for fish and other marine life
+• Enhances commercial and recreational fishing opportunities
 
-Improves water quality through natural filtration
+Florida has been involved in rehabilitating oyster reefs for more than sixty years and provides a multi-dimensional approach built on decades of experience. These restoration methods are established methods for this type of restoration project.
 
-Rebuilds habitat for fish and other marine life
-
-Enhances commercial and recreational fishing opportunities
-
-Florida has been restoring oyster reefs for over 60 years, and this project builds on proven techniques to bring lasting benefits to coastal communities and marine ecosystems.
-
-## How We Track Success
+## Monitoring
 To see how the reefs have responded to the restoration efforts, we monitor oyster abundance, growth, and survival on a yearly basis. Scientists monitor the restored sites to check how many oysters are growing, how big they are, and whether the reefs have reached population levels capable of sustaining commercial harvest. These results help guide future restoration efforts and ensure long-term success.
 
 To determine the relative condition of oyster resources, an estimate of harvestable oysters is determined using FDACS’ Standard Oyster Resource Management Protocol, which has been utilized in Apalachicola Bay since 1982. FDACS uses a scale that states that 400 bags/acre could be harvested from productive artificially constructed reefs within two years of planting cultch. The scale is as follows: 
@@ -46,7 +47,11 @@ To determine the relative condition of oyster resources, an estimate of harvesta
 
 The collected monitoring data is analyzed by CPAP staff to determine the success of the restoration workand compiled into annual monitoring reports.
 
+<div align="center">
+  
 ![Screenshot 2025-05-15 141510](https://github.com/user-attachments/assets/fc778dc5-0492-43ee-a7d9-2d50f60f37f8)
+
+</div>
 
 Along with the annual monitoring reports that are published by CPAP, an [interactive PowerBI dashboard](https://app.powerbi.com/view?r=eyJrIjoiODhhZGQxZmYtYjYzYy00MTQ0LWI3M2EtZmE3NzdlODdlOGE3IiwidCI6ImI2MjAxOTYwLTQ1YmEtNGI3OC1iMDgwLWYxYzQzM2ZmNmUzNiIsImMiOjZ9) was created which enables users to explore key insights through dynamic visuals, making the complex monitoring data more accessible and engaging— far beyond what static graphs or traditional reports can offer.
 
@@ -55,14 +60,12 @@ Along with the annual monitoring reports that are published by CPAP, an [interac
 ### Apalachicola Bay
 In Apalachicola Bay, over 22,000 live oysters and nearly 6,000 dead oysters have been sampled so far. However, the number of live oysters has declined steadily from the first round of sampling to the most recent (Round 5), with the lowest count recorded in Round 5.
 
-The majority of oysters collected across all rounds were spat-sized (0-25 mm), which made up nearly 80% of all live oysters sampled. In Round 5, spat made up about half of the total, with seed-sized oysters (26-74 mm) and adult harvestable oysters (75 mm and larger) making up the rest. While overall numbers dropped, there was a slight increase in the number of adult oysters, suggesting some maturation of the population.
+The majority of oysters collected across all rounds were spat-sized (0-25 mm), which made up nearly 80% of all live oysters sampled. In Round 5, spat made up about half of the total, with seed-sized oysters (26-74 mm) and adult harvestable oysters (75 mm and larger) making up the rest. While the total number of live oysters observed has decreased overall, there was a slight increase in the number of adult oysters, suggesting some maturation of the population.
 
-When looking at different parts of the bay:
+When analyzing the bay based on geographical parameters:
 
 • The East side (sites located to the east of the Apalachicola River) consistently had more oysters than the West side, across all size classes.
-
 • Oystermen have observed more noticeable declines on the West side, especially in an area known as “The Miles.”
-
 • Lighthouse Bar, on the East side, had the highest oyster density in Round 5.
 
 Still, overall productivity has dropped. Based on state benchmarks, none of the sites in Apalachicola Bay are currently productive enough to support commercial harvest. Only Lighthouse Bar came close, with an estimate of about 146 harvestable oyster bags per acre — still below the 200 bags/acre needed for limited commercial harvest.
