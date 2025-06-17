@@ -6,7 +6,7 @@
 </div>
 
 ## Project Overview
-The Florida Oyster Cultch Placement Project is a Natural Resource Damage Assessment (NRDA) Phase III Deepwater Horizon early restoration project. As a result of the Deepwater Horizon oil spill and associated response activities, oyster reefs located along Florida’s Panhandle suffered adverse impacts. 
+The Florida Oyster Cultch Placement Project is a Natural Resource Damage Assessment (NRDA) Phase III Deepwater Horizon early restoration project. As a result of the Deepwater Horizon oil spill and associated response activities, oyster reefs located along Florida’s Panhandle suffered adverse impacts. This project seeks to foster oyster reef habitat development, which would help compensate the public for Spill-related injuries and losses to oyster habitat and benthic secondary productivity.
 
 Healthy oyster reefs play a vital role in the environment — they provide habitat for marine life, improve water quality, and support local fishing communities. This project aims to bring those benefits back by rebuilding degraded oyster habitats in targeted areas along Florida’s Gulf Coast.
 
