@@ -78,26 +78,22 @@ In St. Andrews Bay, to date, 57,966 live oysters and 7,424 dead oysters have bee
 Key highlights:
 
 • East Bay had the most live oysters in Round 5, while West Bay had the most live oysters in all previous rounds of sampling. <br />
-• North Bay remained the least productive region. This is unsurprising, as the North Bay region is comprised of only two sites with single sampling midpoints. <br />
+• North Bay remained the least productive region, as expected, since the North Bay region is comprised of only two sites with single sampling midpoints. <br />
 
-The average oyster size in Round 5 was slightly smaller than in earlier rounds, likely due to the higher number of spat. Still, this increase in young oysters is a good sign that conditions are favorable for future growth.
+Estimated oyster density per square meter also jumped significantly, at 432.07 live oysters/m² in round 5, especially in East and North Bays. Off Little Oyster Bar Ridge had the highest estimated live oyster density in Round 5 (n=1181.07 live oysters/m2), representing the most dramatic increase in live oyster density from Round 4 (n=67.47 live oysters/m2). However, despite the growth, none of the areas have yet reached harvestable levels, with all but 2 sites being considered depleted (<100 bags/acre).
 
-Estimated oyster density per square meter also jumped significantly, especially in East and North Bays. However, despite the growth, none of the areas have yet reached harvestable levels, with even the most productive sites falling short of the commercial threshold.
-
-Mapping revealed that about 58% of the reef areas (nearly 43 acres of 74 originally restored) still provide suitable hard substrate for oyster growth.
+Our spatial extent estimations revealed that 58.22% of the reef areas (nearly 43 acres of 74 originally restored) still provide suitable hard substrate for oyster growth.
 
 ### Pensacola Bay
-Pensacola Bay has seen modest but important improvements. So far, more than 24,000 live oysters have been sampled. The latest round of sampling showed a significant increase in live oyster numbers compared to the previous round, especially in the East Bay, which consistently outperforms Escambia Bay.
+In Pensacola Bay, 24,144 live and 3,555 dead oysters have been sampled. While the number of live oysters sampled from Round 1 to Round 5 were not statistically significant when analyzed on a per sample basis, the latest round of sampling showed a significant increase in live oyster numbers compared to the previous round.
 
 In Round 5:
 
-• Spat and seed oysters made up nearly all the oysters collected. <br />
-• Only three adult oysters were found across the entire bay system, a sharp drop from previous rounds. <br />
+• Spat and seed oysters made up nearly all the oysters collected, with only 3 adult sized harvestable oysters observed. <br />
+• Average shell height in Pensacola Bay was only 22.59 mm in Round 5, a sharp decrease from Round 4's average of 40.07mm. <br />
 
-Escribano Point was the standout site, producing the highest number of oysters overall and the highest oyster density (375 oysters/m²). In contrast, some sites like Boathouse Lumps had no live oysters at all.
+Round 5 of sampling did show a significant increase in estimated live oyster density, at 81.73 live oysters/m², over Round 4's estimated 2.81 live oysters/m².
 
-Average oyster size also dropped in Round 5, reflecting the lower number of adult oysters and the higher number of spat.
+Consistent with all other rounds of sampling, Round 5 of sampling has shown that all sites in Pensacola Bay are considered depleted, with the most productive site only having an estimated 4.80 bags per acre of harvestable oysters.
 
-While oyster densities have rebounded from low points in earlier rounds, the number of harvestable oysters remains far too low. The highest estimated productivity was just under 5 bags/acre — far below the 200 bags/acre needed for even limited commercial harvest.
-
-Mapping data showed that about 73% of the restored area (52 out of 70 acres) still contains suitable hard reef substrate, suggesting that the physical structure for future reef growth is still in place
+Reef spatial extent data showed that 73.45% of the restored area (51.62 of the original 70.29 acres of restored reef) still contains suitable hard reef substrate, suggesting that the physical structure for future reef growth is still in place.
