@@ -36,9 +36,9 @@ Oyster reefs are vital to the health, economy, and culture of the Florida Panhan
 Florida has been involved in rehabilitating oyster reefs for more than sixty years and provides a multi-dimensional approach built on decades of experience. The restoration techniques used in this project are well-established and widely recognized as effective for rebuilding oyster reef habitat.
 
 ## Monitoring
-To see how the reefs have responded to our restoration efforts, we monitor oyster abundance, growth, and survival on a yearly basis. Our observations allow use to determine if the reefs have reached population levels capable of sustaining commercial harvest. These results help guide future restoration efforts and ensure long-term success.
+To see how the reefs have responded to our restoration efforts, we monitor oyster abundance, growth, and survival on a yearly basis. Our observations allow us to determine if the reefs have reached population levels capable of sustaining commercial harvest. These results help guide future restoration efforts and ensure long-term success.
 
-To determine the relative condition of oyster resources, an estimate of harvestable oysters is determined using FDACS’ Standard Oyster Resource Management Protocol, which has been utilized in Apalachicola Bay since 1982. FDACS uses a scale that states that 400 bags/acre could be harvested from productive artificially constructed reefs within two years of planting cultch. The scale is as follows: 
+To determine the relative condition of oyster resources, an estimate of harvestable oysters is determined using the Florida Department of Agriculture and Consumer Services' (FDACS) Standard Oyster Resource Management Protocol, which has been utilized in Apalachicola Bay since 1982. FDACS uses a scale that states that 400 bags/acre could be harvested from productive artificially constructed reefs within two years of planting cultch. The scale is as follows: 
 
 •	More than 400 bags/acre = Healthy oyster reefs capable of sustaining commercial harvest. <br />
 •	More than 200 bags/acre = Oyster reefs capable of sustaining limited harvest. <br />
