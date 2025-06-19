@@ -73,12 +73,12 @@ Still, overall productivity has dropped. Based on the FDAC's Standard Oyster Res
 The spatial extent of our restored oyster reefs was also determined using a side-scan sonar to collect imagery data of our cultched reefs. This allowed us to determine that about 65% of the reef footprint still contains hard substrate necessary for spat settlement, representing  just over 83 acres of the original 128-acre restoration area.
 
 ### St. Andrews Bay
-In the St. Andrews Bay system, nearly 58,000 live oysters have been sampled, and numbers have increased significantly since the start of the project. The latest round (Round 5) saw the highest numbers yet — with a clear rise across all oyster size classes.
+In St. Andrews Bay, to date, 57,966 live oysters and 7,424 dead oysters have been sampled, with numbers having increased significantly since the start of the project. The latest round (Round 5) saw the highest numbers yet, at 17,823 live and 1,021 dead oysters observed, with live counts showing an increase across all oyster size classes.
 
 Key highlights:
 
-• East Bay, part of the St. Andrews system, had the most live oysters in Round 5 — and was the only region to contain adult oysters in both Rounds 4 and 5. <br />
-• North Bay remained the least productive region, largely due to fewer sampling sites and historically lower oyster populations. <br />
+• East Bay had the most live oysters in Round 5, while West Bay had the most live oysters in all previous rounds of sampling. <br />
+• North Bay remained the least productive region. This is unsurprising, as the North Bay region is comprised of only two sites with single sampling midpoints. <br />
 
 The average oyster size in Round 5 was slightly smaller than in earlier rounds, likely due to the higher number of spat. Still, this increase in young oysters is a good sign that conditions are favorable for future growth.
 
