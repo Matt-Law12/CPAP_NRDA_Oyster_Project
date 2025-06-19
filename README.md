@@ -58,19 +58,19 @@ Along with the annual monitoring reports that are published by CPAP, an [interac
 ## Results
 
 ### Apalachicola Bay
-In Apalachicola Bay, over 22,000 live oysters and nearly 6,000 dead oysters have been sampled so far. However, the number of live oysters has declined steadily from the first round of sampling to the most recent (Round 5), with the lowest count recorded in Round 5.
+In Apalachicola Bay, 22,111 live oysters and 5,888 dead oysters have been sampled so far. The number of live oysters has declined steadily from the first round of sampling to the most recent (Round 5), with the lowest count recorded in Round 5.
 
-The majority of oysters collected across all rounds were spat-sized (0-25 mm), which made up nearly 80% of all live oysters sampled. In Round 5, spat made up about half of the total, with seed-sized oysters (26-74 mm) and adult harvestable oysters (75 mm and larger) making up the rest. While the total number of live oysters in Round 5 of monitoring decreased from Round 4, there was a slight increase in the number of adult oysters observed. 
+The majority of oysters collected across all rounds were spat-sized (0-25 mm), which made up 79.89% of all live oysters sampled. In Round 5, spat made up about half of the total, at 52.57%, with seed-sized oysters (26-74 mm) representing 30.64%, and adult harvestable oysters (75 mm and larger) making up the rest (16.80%). While the total number of live oysters in Round 5 of monitoring decreased from Round 4, there was a slight increase in the number of adult oysters observed. 
 
 When analyzing the bay based on geographical parameters:
 
 • The East side (sites located east of the Apalachicola River) consistently had more oysters than the West side, across all size classes. <br />
-• Oystermen have observed more noticeable declines on the West side, especially in an area known as “The Miles.” <br />
-• Lighthouse Bar, on the East side, had the highest oyster density in Round 5. <br />
+• Oystermen have observed more noticeable declines on the West side, especially in an area reffered to as “The Miles.” <br />
+• Lighthouse Bar, on the East side, had the highest estimated oyster density in Round 5, at 27.27 oysters/m². <br />
 
-Still, overall productivity has dropped. Based on the FDAC's Standard Oyster Resource Management Protocol, none of the sites in Apalachicola Bay are currently productive enough to support commercial harvest. Only Lighthouse Bar came close, with an estimate of about 146 harvestable oyster bags per acre — still below the 200 bags/acre necessary to supportcommercial harvest.
+Still, overall productivity has dropped. Based on the FDAC's Standard Oyster Resource Management Protocol, none of the sites in Apalachicola Bay are currently productive enough to support commercial harvest. Only Lighthouse Bar came close, with an estimate of about 146 harvestable oyster bags per acre — still below the 200 bags/acre necessary to support commercial harvest.
 
-Advanced mapping technology was used to determine the actual area of reef coverage. This effort showed that about 65% of the reef footprint still contains hard substrate necessary for spat settlement, representing  just over 83 acres of the original 128-acre restoration area.
+The spatial extent of our restored oyster reefs was also determined using a side-scan sonar to collect imagery data of our cultched reefs. This allowed us to determine that about 65% of the reef footprint still contains hard substrate necessary for spat settlement, representing  just over 83 acres of the original 128-acre restoration area.
 
 ### St. Andrews Bay
 In the St. Andrews Bay system, nearly 58,000 live oysters have been sampled, and numbers have increased significantly since the start of the project. The latest round (Round 5) saw the highest numbers yet — with a clear rise across all oyster size classes.
