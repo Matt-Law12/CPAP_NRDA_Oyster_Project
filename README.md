@@ -90,7 +90,7 @@ In Pensacola Bay, 24,144 live and 3,555 dead oysters have been sampled. While th
 In Round 5:
 
 • Spat and seed oysters made up nearly all the oysters collected, with only 3 adult sized harvestable oysters observed. <br />
-• Average shell height in Pensacola Bay was only 22.59 mm in Round 5, a sharp decrease from Round 4's average of 40.07mm. <br />
+• Average shell height in Pensacola Bay was only 22.59mm in Round 5, a sharp decrease from Round 4's average of 40.07mm. <br />
 
 Round 5 of sampling did show a significant increase in estimated live oyster density, at 81.73 live oysters/m², over Round 4's estimated 2.81 live oysters/m².
 
