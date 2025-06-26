@@ -26,7 +26,7 @@ To restore these reefs, we placed more than 61,000 cubic yards of reef-building 
 This material gives oyster larvae (called spat) a place to settle and grow, helping to rebuild reefs naturally.
 
 ## Why It Matters
-Oyster reefs are vital to the health, economy, and culture of the Florida Panhandle. By restoring these reefs, the project:
+Oyster reefs are vital to the health, economy, and culture of the Florida Panhandle. By restoring these reefs, this project:
 
 • Supports the recovery of oyster populations <br />
 • Improves water quality through natural filtration <br />
