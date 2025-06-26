@@ -1,7 +1,7 @@
 <div align="center">
 
 # Florida Oyster Cultch Placement Restoration Project
-![Oysters-©-Jay-Fleming_web](https://github.com/user-attachments/assets/d8bb8392-b24a-42d8-9778-8a1b2d21827b)
+![main](https://raw.githubusercontent.com/Matt-Law12/CPAP_NRDA_Oyster_Project/main/images/Oysters.jpg)
 
 </div>
 
@@ -13,7 +13,7 @@ Healthy oyster reefs play a vital role in the environment — they provide habit
 ## Restoration Work
 <div align="center">
   
-![image](https://github.com/user-attachments/assets/4e95b501-4d51-449a-87c7-91e0252e8183)
+![main](https://raw.githubusercontent.com/Matt-Law12/CPAP_NRDA_Oyster_Project/main/images/Oyster-restoration.png)
 
 </div>
 
