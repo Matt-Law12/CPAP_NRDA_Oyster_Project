@@ -98,3 +98,19 @@ Round 5 of sampling did show a significant increase in estimated live oyster den
 Consistent with all other rounds of sampling, Round 5 of sampling has shown that all sites in Pensacola Bay are considered depleted, with the most productive site only having an estimated 4.80 bags per acre of harvestable oysters.
 
 Reef spatial extent data showed that 73.45% of the restored area (51.62 of the original 70.29 acres of restored reef) still contains suitable hard reef substrate, suggesting that the physical structure for future reef growth is still in place.
+
+## Quick Links
+
+### Central Aquatic Preserves Main Page:
+• [CPAP](https://matt-law12.github.io/cpap/)
+
+### Other Projects:
+• [Cat Point Living Shoreline Restoration Project](https://matt-law12.github.io/cpap_shore/) <br />
+• [Florida Seagrass Recovery Project](https://matt-law12.github.io/cpap_seagrass/) <br />
+• [CPAP YSI Continual Water Quality Monitoring](https://matt-law12.github.io/cpap_wq/) <br />
+
+### Data Dashboards:
+• [Florida Oyster Cultch Placement Restoration Project](https://app.powerbi.com/view?r=eyJrIjoiODhhZGQxZmYtYjYzYy00MTQ0LWI3M2EtZmE3NzdlODdlOGE3IiwidCI6ImI2MjAxOTYwLTQ1YmEtNGI3OC1iMDgwLWYxYzQzM2ZmNmUzNiIsImMiOjZ9) <br />
+• [Cat Point Living Shoreline Restoration Project](https://app.powerbi.com/view?r=eyJrIjoiZDMzNzc2ZGUtZDM5NC00NzE4LWE3ZTQtZWJkOTIyNjMxZDA5IiwidCI6ImI2MjAxOTYwLTQ1YmEtNGI3OC1iMDgwLWYxYzQzM2ZmNmUzNiIsImMiOjZ9) <br />
+• [Florida Seagrass Recovery Project](https://app.powerbi.com/view?r=eyJrIjoiZjUwZDkwZTctNzdlYi00MzY0LWE2NjQtOTY0NzQ5YWJlNGVjIiwidCI6ImI2MjAxOTYwLTQ1YmEtNGI3OC1iMDgwLWYxYzQzM2ZmNmUzNiIsImMiOjZ9) <br />
+• [CPAP YSI Continual Water Quality Monitoring](https://app.powerbi.com/view?r=eyJrIjoiZGUzNTIyZGMtNjhjMy00NWVmLWJmMGItMmQ3ZWZjZTkxMjY5IiwidCI6ImI2MjAxOTYwLTQ1YmEtNGI3OC1iMDgwLWYxYzQzM2ZmNmUzNiIsImMiOjZ9) <br />
