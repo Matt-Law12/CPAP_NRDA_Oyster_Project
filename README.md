@@ -101,7 +101,7 @@ Reef spatial extent data showed that 73.45% of the restored area (51.62 of the o
 
 ## Quick Links
 
-### Central Aquatic Preserves Main Page:
+### Central Panhandle Aquatic Preserves Main Page:
 • [CPAP](https://matt-law12.github.io/cpap/)
 
 ### Other Projects:
