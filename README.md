@@ -1,6 +1,6 @@
-<div align="center">
+<h1 align="center">Florida Oyster Cultch Placement Restoration Project</h1>
 
-# Florida Oyster Cultch Placement Restoration Project
+<div align="center">
 
 <img src="./images/Oysters.jpg" alt="Image 1" />
 
