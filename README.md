@@ -48,8 +48,6 @@ To determine the relative condition of oyster resources, an estimate of harvesta
 The collected monitoring data is analyzed by CPAP staff to determine the success of the restoration work and compiled into annual monitoring reports.
 
 <div align="center">
-  
-![Screenshot 2025-05-15 141510](https://github.com/user-attachments/assets/fc778dc5-0492-43ee-a7d9-2d50f60f37f8)
 
 ![Dash](images/Screenshot%202025-05-15%20141510.png)
 
