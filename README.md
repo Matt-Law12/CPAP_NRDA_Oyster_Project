@@ -58,7 +58,7 @@ Along with the annual monitoring reports that are published by CPAP, an [interac
 ## Results
 
 ### Apalachicola Bay
-In Apalachicola Bay, 22,111 live oysters and 5,888 dead oysters have been sampled so far. The number of live oysters has declined steadily from the first round of sampling to the most recent (Round 5), with the lowest count recorded in Round 5.
+In Apalachicola Bay, 22,111 live oysters and 5,888 dead oysters have been sampled thus far. The number of live oysters has declined steadily from the first round of sampling to the most recent (Round 5), with the lowest count recorded in Round 5.
 
 The majority of oysters collected across all rounds were spat-sized (0-25 mm), which made up 79.89% of all live oysters sampled. In Round 5, spat made up about half of the total, at 52.57%, with seed-sized oysters (26-74 mm) representing 30.64%, and adult harvestable oysters (75 mm and larger) making up the rest (16.80%). While the total number of live oysters in Round 5 of monitoring decreased from Round 4, there was a slight increase in the number of adult oysters observed. 
 
