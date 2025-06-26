@@ -20,8 +20,8 @@ Healthy oyster reefs play a vital role in the environment — they provide habit
 To restore these vital reefs, we placed more than 61,000 cubic yards of reef-building material, known as cultch, across nearly 300 acres of existing oyster bars in three bay systems:
 
 •	Apalachicola Bay (Franklin County): ~24,840 cubic yards of oyster shell placed over 124 acres <br />
-•	St. Andrews Bay (Bay County): ~17,000 cubic yards of crushed granite over 84 acres <br />
-•	Pensacola Bay (Escambia & Santa Rosa Counties): ~20,100 cubic yards of limestone over 88 acres <br />
+•	St. Andrews Bay (Bay County): ~17,000 cubic yards of crushed granite placed over 84 acres <br />
+•	Pensacola Bay (Escambia & Santa Rosa Counties): ~20,100 cubic yards of limestone placed over 88 acres <br />
 
 This material gives oyster larvae (called spat) a place to settle and grow, helping to rebuild reefs naturally.
 
