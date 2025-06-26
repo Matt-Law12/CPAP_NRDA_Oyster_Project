@@ -14,7 +14,7 @@ Healthy oyster reefs play a vital role in the environment — they provide habit
 ## Restoration Work
 <div align="center">
   
-![main](https://raw.githubusercontent.com/Matt-Law12/CPAP_NRDA_Oyster_Project/main/images/Oyster-restoration.png)
+<img src="./images/Oyster-restoration.png" alt="Image 2" />
 
 </div>
 
@@ -50,7 +50,7 @@ The collected monitoring data is analyzed by CPAP staff to determine the success
 
 <div align="center">
 
-![Dash](https://raw.githubusercontent.com/Matt-Law12/CPAP_NRDA_Oyster_Project/main/images/Screenshot%202025-05-15%20141510.png)
+<img src="./images/Screenshot%202025-05-15%20141510.png" alt="Image 2" />
 
 </div>
 
