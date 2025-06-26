@@ -2,7 +2,7 @@
 
 # Florida Oyster Cultch Placement Restoration Project
 
-![main](https://matt-law12.github.io/CPAP_NRDA_Oyster_Project/images/Oysters.jpg)
+<img src="./images/Oysters.jpg" alt="Image 1" />
 
 </div>
 
