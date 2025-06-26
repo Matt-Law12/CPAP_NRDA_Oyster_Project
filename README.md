@@ -49,7 +49,7 @@ The collected monitoring data is analyzed by CPAP staff to determine the success
 
 <div align="center">
 
-![Dash](images/Screenshot%202025-05-15%20141510.png)
+![Dash](https://raw.githubusercontent.com/Matt-Law12/CPAP_NRDA_Oyster_Project/main/images/Screenshot%202025-05-15%20141510.png)
 
 </div>
 
