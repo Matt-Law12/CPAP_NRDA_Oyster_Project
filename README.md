@@ -51,6 +51,8 @@ The collected monitoring data is analyzed by CPAP staff to determine the success
   
 ![Screenshot 2025-05-15 141510](https://github.com/user-attachments/assets/fc778dc5-0492-43ee-a7d9-2d50f60f37f8)
 
+![Dash](images/Screenshot%202025-05-15%20141510.png)
+
 </div>
 
 Along with the annual monitoring reports that are published by CPAP, an [interactive PowerBI dashboard](https://app.powerbi.com/view?r=eyJrIjoiODhhZGQxZmYtYjYzYy00MTQ0LWI3M2EtZmE3NzdlODdlOGE3IiwidCI6ImI2MjAxOTYwLTQ1YmEtNGI3OC1iMDgwLWYxYzQzM2ZmNmUzNiIsImMiOjZ9) was created which enables users to explore our monitoring data through dynamic visuals, making the complex data more accessible and engaging— far beyond what static graphs or traditional reports can offer.
