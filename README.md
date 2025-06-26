@@ -80,7 +80,7 @@ Key highlights:
 • East Bay had the most live oysters in Round 5, while West Bay had the most live oysters in all previous rounds of sampling. <br />
 • North Bay remained the least productive region, as expected, since the North Bay region is comprised of only two sites with single sampling midpoints. <br />
 
-Estimated oyster density per square meter also jumped significantly, at 432.07 live oysters/m² in round 5, especially in East and North Bays. Off Little Oyster Bar Ridge had the highest estimated live oyster density in Round 5 (n=1181.07 live oysters/m2), representing the most dramatic increase in live oyster density from Round 4 (n=67.47 live oysters/m2). However, despite the growth, none of the areas have yet reached harvestable levels, with all but 2 sites being considered depleted (<100 bags/acre).
+Estimated oyster density per square meter also jumped significantly, at 432.07 live oysters/m² in round 5, especially in East and North Bays. Off Little Oyster Bar Ridge had the highest estimated live oyster density in Round 5 (n=1181.07 live oysters/m²), representing the most dramatic increase in live oyster density from Round 4 (n=67.47 live oysters/m²). However, despite the growth, none of the areas have yet reached harvestable levels, with all but 2 sites being considered depleted (<100 bags/acre).
 
 Our spatial extent estimations revealed that 58.22% of the reef areas (nearly 43 acres of 74 originally restored) still provide suitable hard substrate for oyster growth.
 
