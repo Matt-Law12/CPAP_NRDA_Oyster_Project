@@ -65,7 +65,7 @@ The majority of oysters collected across all rounds were spat-sized (0-25 mm), w
 When analyzing the bay based on geographical parameters:
 
 • The East side (sites located east of the Apalachicola River) consistently had more oysters than the West side, across all size classes. <br />
-• Oystermen have observed more noticeable declines on the West side, especially in an area reffered to as “The Miles.” <br />
+• Oystermen have observed more noticeable declines on the West side, particularly in an area reffered to as “The Miles.” <br />
 • Lighthouse Bar, on the East side, had the highest estimated oyster density in Round 5, at 27.27 oysters/m². <br />
 
 Still, overall productivity has dropped. Based on the FDAC's Standard Oyster Resource Management Protocol, none of the sites in Apalachicola Bay are currently productive enough to support commercial harvest. Only Lighthouse Bar came close, with an estimate of about 146 harvestable oyster bags per acre — still below the 200 bags/acre necessary to support commercial harvest.
